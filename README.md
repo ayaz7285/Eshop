@@ -1,5 +1,5 @@
 # Eshop
-#### This a fully functional ECommerce website buit using MERN Stack Technology.
+#### This a fully functional ECommerce website built using MERN Stack Technology.
 #### This project was done during my 3 months internship at Your Engineer.Inc .
 ## Features
 #### You can create your own account, login to your account and also logout from your account.
